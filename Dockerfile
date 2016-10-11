@@ -2,7 +2,7 @@
 # Distributed under the terms of the Modified BSD License.
 
 #FROM madraziw/test-base-selfnotebook
-FROM madraziw/base-notebook-423
+FROM madraziw/base-notebook
 
 MAINTAINER Jupyter Project <jupyter@googlegroups.com>
 
